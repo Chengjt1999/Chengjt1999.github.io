@@ -2,7 +2,7 @@ main:
 
 
   - title: "MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation"
-    authors: <strong>Jiehao Luo*</strong>, Jintao Cheng*, Xiaoyu Tang, Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
+    authors: Jiehao Luo*, <strong>Jintao Cheng*</strong>, Xiaoyu Tang, Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
     conference_short: arXiv
     conference: arXiv, 2025
     pdf: https://arxiv.org/abs/2502.16907
@@ -13,9 +13,9 @@ main:
 
 
   - title: "OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition"
-    authors: <strong>Jiehao Luo*</strong>, Jintao Cheng*, Qiuchi Xiang, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang (*Co-first author)
-    conference_short: arXiv
-    conference: arXiv, 2024
+    authors: Jiehao Luo*, <strong>Jintao Cheng*</strong>, Qiuchi Xiang, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang (*Co-first author)
+    conference_short: RA-L
+    conference: RA-L, 2025
     pdf: https://arxiv.org/abs/2405.07966
     code: https://github.com/SCNU-RISLAB/OverlapMamba
     image: ./assets/img/olm.png
@@ -24,7 +24,7 @@ main:
 
 
   - title: "Mfdd: Multi-scale attention fatigue and distracted driving detector based on facial features"
-    authors: Yulin Shi, Jintao Cheng, Xingming Chen, <strong>Jiehao Luo</strong>, Xiaoyu Tang
+    authors: Yulin Shi, <strong>Jintao Cheng</strong>, Xingming Chen, Jiehao Luo, Xiaoyu Tang
     conference_short: JRIP
     conference: Journal of Real-Time Image Processing <strong>(JRIP)</strong>, 2024
     pdf: https://link.springer.com/content/pdf/10.1007/s11554-024-01549-y.pdf
@@ -35,7 +35,7 @@ main:
 
 
   - title: "基于改进Faster R-CNN的电力检修工程智慧监测"
-    authors: 唐小煜, <strong>罗杰豪</strong>, 黄声勇
+    authors: 唐小煜, 罗杰豪, 黄声勇
     conference_short: 华南师范大学学报
     conference: 华南师范大学学报, 2024
     pdf: https://drive.google.com/file/d/1O6Z_EqfePBlPVVsptZBhrSizx07M7cGp/view?usp=drive_link
@@ -44,7 +44,7 @@ main:
 
 
   - title: "SwinMotionSeg: A Point Cloud Moving Object Segmentation Model Based on Swin-Transformer"
-    authors: Kang Zeng, <strong>Jiehao Luo</strong>, Yuanfang Zhang, Jintao Cheng, Xiaoyu Tang
+    authors: Kang Zeng, Jiehao Luo, Yuanfang Zhang, <strong>Jintao Cheng</strong>, Xiaoyu Tang
     conference_short: IST
     conference: IEEE International Conference on Imaging Systems and Techniques <strong>(IST)</strong>, 2023
     pdf: https://drive.google.com/file/d/1lw_Rhj0efbuPapr5kFu9CWltv-BI5-He/view?usp=sharing
@@ -55,7 +55,7 @@ main:
 
 
   - title: "Facial Expression Recognition Based on Affinity Loss and Improved Inception-ResNet-v2"
-    authors: Shangxiong Zhang, Zhiruo Lin, <strong>Jiehao Luo</strong>, Xiaoyu Tang
+    authors: Shangxiong Zhang, Zhiruo Lin, Jiehao Luo, Xiaoyu Tang
     conference_short: ICICSP
     conference: IEEE International Conference on Information Communication and Signal Processing <strong>(ICICSP)</strong>, 2023
     pdf: https://drive.google.com/file/d/1S4ZK3F10rUJ2kVstnGCjONwEzXYG_R9J/view?usp=sharing
