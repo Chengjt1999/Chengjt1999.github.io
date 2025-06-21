@@ -1,8 +1,8 @@
 # Basic Information 
 title: Jintao Cheng (程锦涛)
-position: Undergraduate, Junior year
-affiliation: South China Normal University
-email: jtcheng@m.scnu.edu.cn
+# position: Undergraduate, Junior year
+# affiliation: South China Normal University
+# email: jtcheng@m.scnu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,9 +12,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com.sg/citations?user=taZHpjsAAAAJ&hl=zh-CN&oi=sra
+# google_scholar: https://scholar.google.com.sg/citations?user=taZHpjsAAAAJ&hl=zh-CN&oi=sra
 # cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/Chengjt1999
+# github_link: https://github.com/Chengjt1999
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
